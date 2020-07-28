@@ -1,6 +1,6 @@
 # Variational Autoencoder 
 
-This repository contains an implementation of a simple Varirational Autoencoder in pytorch. 
+Implementation of a simple Varirational Autoencoder in pytorch. 
 
 
 
